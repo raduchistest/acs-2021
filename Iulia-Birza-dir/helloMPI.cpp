@@ -12,3 +12,4 @@ int main(int argc, char** argv){
 	cout<<numprocs<<" "<<myid<<" Hello World! "<<endl;
 	MPI_Finalize();
 }
+
